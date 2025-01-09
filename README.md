@@ -53,7 +53,7 @@ The primary objectives of this project are:
 
 ---
 
-## Results
+## Deforestation-Analysis-Brazil
 The outputs include:
 1. Scripts for data analysis and visualization.
 2. Summary statistics and graphical visualizations.
